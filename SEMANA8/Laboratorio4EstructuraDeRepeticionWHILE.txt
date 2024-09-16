@@ -1,0 +1,28 @@
+console.log("------Laboratorio 4------");
+
+let rangoInicial = parseInt(prompt("Ingrese el rango inicial"));
+while (isNaN(rangoInicial)) {
+  rangoInicial = parseInt(prompt("Ingrese el rango inicial"));
+}
+
+let rangoFinal = parseInt(prompt("Ingrese el rango final"));
+while (isNaN(rangoFinal)) {
+  rangoFinal = parseInt(prompt("Ingrese el rango final"));
+}
+let contador = 0;
+let contadorMultiplo2 = 0;
+let contadorMultiplo3 = 0;
+//imprimir los numeros//
+while (rangoInicial <= rangoFinal) {
+  rangoInicial++;
+  contador++;
+  if (rangoInicial % 2 == 0) {
+    contadorMultiplo2++;
+    console.log(rangoInicial + " es multiplo de 2");
+  }
+  if (rangoInicial % 3 == 0) {
+    contadorMultiplo3++;
+    console.log(rangoInicial + " es multiplo de 3");
+  }
+}
+console.log("La cantidad de numeros multiplos de 2 o de 3 en este Rango son: " + contador);
