@@ -1,0 +1,24 @@
+¿Cree usted que es necesario implementar está técnica en los equipos de desarrollo de software?
+depende de para quien se esta desarrollando el proyecto, si bien es cierto es mas eficiente a nivel de calidad y pocos errores,
+es mas caro en cuanto a personal y tiempo, como lo dice el texto, 1 trabaja mas lento que 2, 
+pero 2 por separado trabajan mas rápido que en pareja.
+
+personalmente pienso que es muy bueno por la disminución de costos por rectificación de códigos, 
+también por la calidad de código, la sencillez y al final esto se convierte en un ahorro para la empresa
+
+2. ¿Qué beneficios trae utilizar Pair Programming en el desarrollo de software?
+
+códigos mas sencillos, mayor calidad de código, menor cantidad de errores, se adquiere conocimiento del 
+compañero o da la oportunidad de enseñar y conocer nuevas técnicas. en el caso que se usen personas con diferentes 
+especialidades, ya que aunque seamos buenos para programar, es posible que necesitemos el punto de vista de 
+alguien que trabaja en diseño de frontend. 
+
+3. ¿A qué desafíos nos podríamos enfrentar al usar el pair programming?principalmente creo que es el conectar 
+con el compañero de trabajo y enfocarse en que uno no es mejor que otro sino que son un equipo. debe saberse que a pesar de que 
+son dos personas, se esta desarrollando un proyecto por que debemos enfocar 2 mentes en un solo objetivo.
+
+otro desafío es la situación que no haya un acuerdo en el código y esto retrase la entrega de los proyectos.
+
+otro desafío es el espacio de trabajo, siempre deben estar juntos para lograr mejores resultados, 
+ciertamente se puede trabajar por separado, sin embargo, esto se convierte en un problema de 
+comunicación que en desarrollo de aplicaciones es esencial.
