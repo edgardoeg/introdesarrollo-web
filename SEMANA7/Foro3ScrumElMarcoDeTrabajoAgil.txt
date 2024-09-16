@@ -1,0 +1,32 @@
+Retrospectiva de sprint, ¿Qué tan beneficioso será aplicarla en un equipo de desarrolladores de software?
+Es muy beneficioso ya que es el tiempo en el que equipo se reúne para analizar la forma de mejorar los 
+procesos y el rendimiento a medida que se va avanzando en el sprint. En este momento se analizan las lecciones aprendidas, 
+las cuales pueden aplicarse a futuro y mejorar sprints futuros.
+También ayuda a que la colaboración sea más eficaz. Todos lo miembros del equipo scrum debería asistir a 
+esta reunión para logran entender los elementos que los llevaran a acciones en el futuro.
+
+ 
+2. ¿Qué beneficios trae utilizar Scrum en el desarrollo de software?
+
+Definitivamente ayuda a una mejor organización jerárquica en el proyecto.
+
+Genera un proceso de desarrollo mas claro. Con roles definidos y tareas bien distribuidas de manera que se avanza de manera ordenada y sin dejar procesos rezagados.
+
+Al ser un proceso con ciclos cortos ayuda a la mejora y aprendizaje continuo, 
+fácil corrección de errores y poca repetición de los mismos ya que hay un aprendizaje en cada reunión de retrospectiva de sprint
+
+Al ser una técnica con una evaluación ayuda mucho a mejorar el desempeño de los desarrolladores.
+
+ 
+
+3. ¿A qué desafíos nos podríamos enfrentar si queremos implementar Scrum en una empresa donde no se usa el desarrollo ágil?
+
+El primer desafío es la tradición de la empresa. Normalmente se esta acostumbrado a una jerarquía en cascada lo que el cambio de esta, 
+representaría un choque en la cultura de trabajo, ya que debería haber un cambio a nivel gerencial ya que estos deben tomar el rol de scrum master 
+lo que sería algo nuevo en los procesos existentes y esto generaría incomodidad en los desarrolladores
+
+También seria un desafío la falta de conocimiento del proceso, ya que se necesita tener muy claros los roles para lograr desarrollar bien la técnica, 
+si no, seria más perdida de tiempo que avance
+
+Debido al tiempo de entrenamiento, desarrollo y acoplamiento a la técnica. Pueden cambiar los tiempos de entrega de proyectos lo que 
+generaría un problema a nivel gerencial ya que los tiempos se habían trabajado según estrategias tradicionales
