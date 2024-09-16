@@ -1,0 +1,31 @@
+/*Desarrolle un programa que indique la denominación en cuanto a la edad de una persona según los siguientes criterios:
+Cuando la edad es menor a 14, es un niño.
+Cuando la edad es de 14 a 22, es un adolescente.
+Cuando la edad es de 23 a 43, es un joven.
+Cuando la edad es de 44 a 64, es un adulto joven.
+Cuando la edad es de 65 a más es un adulto mayor.
+  */
+
+
+let edad = parseInt(prompt("Ingrese la edad"));
+if(!isNaN(edad)){
+  if(edad<14){
+    console.log("Es un niño")
+   }
+  if(edad>=14 && edad<=22){
+    console.log("Es un adolescente")
+  }
+  if(edad>=23 && edad<=43){
+    console.log("Es un joven")
+  }
+  if(edad>=44 && edad<=64){
+    console.log("Es un adulto joven")
+  }
+  if(edad>=65){
+    console.log("Es un adulto mayor")
+  }
+}
+else{
+
+  console.log("Ingrese un valor correcto")
+}
