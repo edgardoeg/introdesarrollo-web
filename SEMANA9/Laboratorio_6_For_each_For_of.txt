@@ -1,0 +1,26 @@
+console.log("Laboratorio #6: For-each, For-of");
+//Desarrolle un algoritmo que tenga un arreglo con 7 números enteros los cuales serán ingresados por el usuario.
+Posteriormente diga cual es el número menor de todos y el mayor. Utilice for-each o for-of para la solución del problema planteado.//
+
+let numeros = [];
+for (let i = 0; i < 7; i++) {
+  let numero = parseInt(prompt("Ingresa un numero entero:"));
+  numeros.push(numero);
+  while (isNaN(numero)) {
+    numero = parseInt(prompt("ingrese un numero entero:"));
+  }
+}
+let numeroMenor = numeros[0];
+let numeroMayor = numeros[0];
+numeros.forEach(entero => {
+  if (entero < numeroMenor) {
+    numeroMenor = entero;
+  }
+  if (entero > numeroMayor) {
+    numeroMayor = entero;
+  }
+});
+
+console.log("Los números ingresados son: " + numeros);
+console.log("El número menor es: " + numeroMenor);
+console.log("El número mayor es: " + numeroMayor);
