@@ -1,0 +1,10 @@
+let suma = 0;
+let contador = 0;
+for (let numero = 1; numero <= 300; numero += 2) {
+  if (numero % 3 == 0) {
+    suma += numero;
+    contador++;
+  }
+}
+console.log("La suma de los múltiplos de 3 es: " + suma);
+console.log("La cantidad de múltiplos de 3 es: " + contador);
